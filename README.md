@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kannu PS
 
-🚀 **Software Engineer | ☁️ Cloud Expert | 🤖 Learning Generative AI**
+🚀 **Lead Software Engineer | ☁️ Cloud Expert | 🤖 Learning Generative AI**
 
 I’m a seasoned software engineer with over **15 years of experience** designing and developing enterprise-grade applications using **Java, Spring Boot, and Cloud technologies (Azure, AWS, GCP)**.  
 Lately, I’ve been diving deep into **Machine Learning and Generative AI**, building practical solutions like **RAG-based document assistants** and **AI-powered automation systems**.
